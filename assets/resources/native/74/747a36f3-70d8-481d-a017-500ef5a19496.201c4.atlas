@@ -1,0 +1,41 @@
+
+huntianlin.png
+size: 805,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+shanzi_1
+  rotate: false
+  xy: 544, 2
+  size: 59, 56
+  orig: 59, 56
+  offset: 0, 0
+  index: -1
+shanzi_2
+  rotate: true
+  xy: 605, 19
+  size: 39, 74
+  orig: 39, 74
+  offset: 0, 0
+  index: -1
+shanzi_3
+  rotate: false
+  xy: 544, 60
+  size: 259, 166
+  orig: 259, 166
+  offset: 0, 0
+  index: -1
+shanzi_4
+  rotate: false
+  xy: 2, 2
+  size: 269, 224
+  orig: 273, 228
+  offset: 2, 2
+  index: -1
+shanzi_5
+  rotate: false
+  xy: 273, 2
+  size: 269, 224
+  orig: 273, 228
+  offset: 2, 2
+  index: -1

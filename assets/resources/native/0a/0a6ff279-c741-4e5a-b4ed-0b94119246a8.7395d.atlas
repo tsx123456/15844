@@ -1,0 +1,55 @@
+
+fenghuolun.png
+size: 691,247
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xiuqiu_1
+  rotate: true
+  xy: 612, 56
+  size: 19, 77
+  orig: 19, 77
+  offset: 0, 0
+  index: -1
+xiuqiu_2
+  rotate: false
+  xy: 502, 77
+  size: 177, 168
+  orig: 177, 168
+  offset: 0, 0
+  index: -1
+xiuqiu_3
+  rotate: false
+  xy: 612, 24
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+xiuqiu_4
+  rotate: false
+  xy: 502, 7
+  size: 52, 68
+  orig: 52, 146
+  offset: 0, 0
+  index: -1
+xiuqiu_5
+  rotate: false
+  xy: 556, 13
+  size: 54, 62
+  orig: 54, 62
+  offset: 0, 0
+  index: -1
+xiuqiu_6
+  rotate: true
+  xy: 2, 2
+  size: 243, 248
+  orig: 247, 252
+  offset: 2, 2
+  index: -1
+xiuqiu_7
+  rotate: true
+  xy: 252, 2
+  size: 243, 248
+  orig: 247, 252
+  offset: 2, 2
+  index: -1

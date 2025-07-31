@@ -1,0 +1,48 @@
+
+chuizhi.png
+size: 677,216
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bianpao_1
+  rotate: false
+  xy: 558, 3
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+bianpao_2
+  rotate: false
+  xy: 426, 34
+  size: 130, 180
+  orig: 130, 180
+  offset: 0, 0
+  index: -1
+bianpao_3
+  rotate: false
+  xy: 593, 14
+  size: 34, 40
+  orig: 34, 40
+  offset: 0, 0
+  index: -1
+bianpao_4
+  rotate: false
+  xy: 558, 56
+  size: 117, 158
+  orig: 117, 169
+  offset: 0, 0
+  index: -1
+bianpao_5
+  rotate: true
+  xy: 2, 2
+  size: 212, 210
+  orig: 216, 214
+  offset: 2, 2
+  index: -1
+bianpao_6
+  rotate: true
+  xy: 214, 2
+  size: 212, 210
+  orig: 216, 214
+  offset: 2, 2
+  index: -1

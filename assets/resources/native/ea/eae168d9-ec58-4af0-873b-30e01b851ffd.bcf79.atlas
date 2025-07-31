@@ -1,0 +1,83 @@
+
+yuanbao.png
+size: 832,224
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_sparkle
+  rotate: false
+  xy: 703, 24
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+h_i_fu
+  rotate: true
+  xy: 576, 16
+  size: 54, 55
+  orig: 54, 55
+  offset: 0, 0
+  index: -1
+h_i_fu_fx01
+  rotate: false
+  xy: 633, 37
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+h_i_fu_fx02
+  rotate: false
+  xy: 668, 37
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+h_i_fu_fx03
+  rotate: false
+  xy: 703, 37
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+h_i_fu_fx04
+  rotate: false
+  xy: 633, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+h_i_fu_fx05
+  rotate: false
+  xy: 668, 2
+  size: 33, 33
+  orig: 33, 33
+  offset: 0, 0
+  index: -1
+jinchan_1
+  rotate: false
+  xy: 576, 72
+  size: 165, 150
+  orig: 165, 150
+  offset: 0, 0
+  index: -1
+jinchan_2
+  rotate: true
+  xy: 743, 15
+  size: 207, 87
+  orig: 211, 198
+  offset: 0, 0
+  index: -1
+jinchan_3
+  rotate: false
+  xy: 2, 2
+  size: 285, 220
+  orig: 289, 223
+  offset: 2, 1
+  index: -1
+jinchan_4
+  rotate: false
+  xy: 289, 2
+  size: 285, 220
+  orig: 289, 223
+  offset: 2, 1
+  index: -1

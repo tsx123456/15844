@@ -1,0 +1,41 @@
+
+huojianqiang.png
+size: 795,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_sparkle
+  rotate: false
+  xy: 706, 61
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1
+yuanbao_1
+  rotate: true
+  xy: 706, 74
+  size: 132, 87
+  orig: 132, 87
+  offset: 0, 0
+  index: -1
+yuanbao_2
+  rotate: true
+  xy: 566, 2
+  size: 204, 138
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+yuanbao_3
+  rotate: false
+  xy: 2, 3
+  size: 280, 203
+  orig: 284, 207
+  offset: 2, 2
+  index: -1
+yuanbao_4
+  rotate: false
+  xy: 284, 3
+  size: 280, 203
+  orig: 284, 207
+  offset: 2, 2
+  index: -1

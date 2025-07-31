@@ -1,0 +1,83 @@
+
+fudai.png
+size: 932,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fudai_1
+  rotate: false
+  xy: 794, 23
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+fudai_10
+  rotate: true
+  xy: 253, 2
+  size: 205, 249
+  orig: 207, 251
+  offset: 1, 1
+  index: -1
+fudai_2
+  rotate: false
+  xy: 865, 136
+  size: 65, 71
+  orig: 65, 71
+  offset: 0, 0
+  index: -1
+fudai_3
+  rotate: false
+  xy: 750, 114
+  size: 113, 93
+  orig: 113, 93
+  offset: 0, 0
+  index: -1
+fudai_4
+  rotate: true
+  xy: 750, 45
+  size: 67, 42
+  orig: 67, 42
+  offset: 0, 0
+  index: -1
+fudai_5
+  rotate: true
+  xy: 865, 74
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+fudai_6
+  rotate: false
+  xy: 850, 20
+  size: 56, 52
+  orig: 56, 52
+  offset: 0, 0
+  index: -1
+fudai_7
+  rotate: true
+  xy: 794, 48
+  size: 64, 54
+  orig: 64, 54
+  offset: 0, 0
+  index: -1
+fudai_8
+  rotate: true
+  xy: 504, 7
+  size: 200, 244
+  orig: 200, 244
+  offset: 0, 0
+  index: -1
+fudai_9
+  rotate: true
+  xy: 2, 2
+  size: 205, 249
+  orig: 207, 251
+  offset: 1, 1
+  index: -1
+fx_sparkle
+  rotate: false
+  xy: 850, 101
+  size: 11, 11
+  orig: 13, 13
+  offset: 1, 1
+  index: -1

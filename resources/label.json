@@ -1,0 +1,36 @@
+{
+    "en": {
+        "shared_AnimationTips": [
+            "Update to latest device update for best gaming experience!",
+            "Turn off idle pages, give me more resources!",
+            "Downloading over Wi-Fi recommended for HD gaming!",
+            "If this is your first visit, downloading may take a while.",
+            "Previously loaded games load faster from browser cache!",
+            "For the ultimate game experience, use Safari or Chrome!"
+        ],
+        "login_fail": "Login failed, system retrying... (%st time)",
+        "loading_game_res": "Loading game resourcese",
+        "loading_tips3": "Update to latest device update for best gaming experience!",
+        "shared_record_start": "GET STARTED",
+        "loading_res": "Loading Game"
+    },
+    "pt": {
+        "shared_AnimationTips": [
+            "Atualize para o dispositivo mais recente para desfrutar da melhor experiência de jogo!",
+            "Para a melhor experiência de jogo, utilize o Safari ou o Chrome!",
+            "Desative páginas inativas e disponibilize mais recursos!",
+            "Os jogos carregados anteriormente carregam mais rapidamente a partir da cache do navegador!",
+            "Se nos está a visitar pela primeira vez, a transferência pode demorar um pouco.",
+            "Recomendamos a transferência por Wi-Fi para jogar em HD!"
+        ],
+        "login_fail": "Falha ao efetuar a transação.A voltar a tentar a tentar...(#%.ᵃ vez)",
+        "loading_game_res": "A ler informações",
+        "loading_tips3": "Atualize para o dispositivo mais recente para desfrutar da melhor experiência de jogo!",
+        "shared_record_start": "Começar",
+        "loading_res": "A carregar recursos",
+        "loadGame": "A carregar",
+        "login": "A iniciar sessão",
+        "readInfo": "A ler informações",
+        "complete": "Completar"
+    }
+}
