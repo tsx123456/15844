@@ -1,1 +1,0 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/scene/OxStart.fire",orientation:"",jsList:["assets/Common/Lib/big.b51a4.js"],bundleVers:{internal:"6c0a3",resources:"3381b",fortuneMouse:"3bb52",main:"1dde1"}};
