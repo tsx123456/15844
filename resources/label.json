@@ -23,14 +23,26 @@
             "Se nos está a visitar pela primeira vez, a transferência pode demorar um pouco.",
             "Recomendamos a transferência por Wi-Fi para jogar em HD!"
         ],
+        "begin_login": "A iniciar sessão",
         "login_fail": "Falha ao efetuar a transação.A voltar a tentar a tentar...(#%.ᵃ vez)",
         "loading_game_res": "A ler informações",
         "loading_tips3": "Atualize para o dispositivo mais recente para desfrutar da melhor experiência de jogo!",
         "shared_record_start": "Começar",
-        "loading_res": "A carregar recursos",
-        "loadGame": "A carregar",
-        "login": "A iniciar sessão",
-        "readInfo": "A ler informações",
-        "complete": "Completar"
+        "loading_res": "A carregar recursos"
+    },
+    "ru": {
+        "shared_AnimationTips": [
+            "Обновите устройство до последней версии для лучшего игрового опыта!",
+            "Закройте неиспользуемые страницы, чтобы выделить больше ресурсов!",
+            "Для игры в HD-качестве рекомендуется загрузка по Wi-Fi!",
+            "Если вы зашли впервые, загрузка может занять некоторое время.",
+            "Ранее загруженные игры открываются быстрее из кэша браузера!",
+            "Для максимального игрового опыта используйте Safari или Chrome!"
+        ],
+        "login_fail": "Вход не удался, система повторяет попытку... (%s раз)",
+        "loading_game_res": "Загрузка игровых ресурсов",
+        "loading_tips3": "Обновите устройство до последней версии для лучшего игрового опыта!",
+        "shared_record_start": "НАЧАТЬ",
+        "loading_res": "Загрузка игры"
     }
 }
